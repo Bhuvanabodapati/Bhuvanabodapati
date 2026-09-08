@@ -107,17 +107,6 @@ Intelligent retail system designed with multi-sensor verification and secured du
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Bhuvana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvanabodapati&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Bhuvanabodapati)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanabodapati&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Bhuvanabodapati)
-
-</div>
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
