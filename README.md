@@ -1,8 +1,6 @@
-<img width="851" height="351" alt="image" src="https://github.com/user-attachments/assets/1ba76385-26dd-425b-9912-508c50e7d63f" /><div align="center">
-
 # 👋 Hi, I'm Bhuvana Bodapati
 
-### 🤖 AI/ML Developer | Python | Machine Learning | Generative AI
+### 🤖 AI/ML Developer | Python | Machine Learning | Generative AI | Full Stack Developer
 
 Building practical AI solutions and intelligent applications.
 
