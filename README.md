@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhuvana Bodapati
 
-### 🤖 AI/ML Developer | Python | Machine Learning | Generative AI | Full Stack Developer
+### 🤖 AI/ML Developer & Java Full Stack Developer | Python | Machine Learning | Generative AI | Java
 
 Building practical AI solutions and intelligent applications.
 
