@@ -111,12 +111,11 @@ Intelligent retail system designed with multi-sensor verification and secured du
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhuvanabodapati&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+[![Bhuvana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvanabodapati&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Bhuvanabodapati)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanabodapati&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanabodapati&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Bhuvanabodapati)
 
 </div>
-
 ---
 
 ## 🔥 Contribution Streak
@@ -124,6 +123,18 @@ Intelligent retail system designed with multi-sensor verification and secured du
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Bhuvanabodapati&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvana%20Bodapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvana-bodapati-24002325a/)
+
+[![Email](https://img.shields.io/badge/Email-bhuvanabodapati7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvanabodapati7@gmail.com)
 
 </div>
 
